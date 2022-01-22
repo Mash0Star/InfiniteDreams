@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/fantasybattle.ogg-7133ac1d09b2f05e24ce6cb9ef80bee2.oggstr"
+
+[deps]
+
+source_file="res://audio/music/fantasybattle.ogg"
+dest_files=[ "res://.import/fantasybattle.ogg-7133ac1d09b2f05e24ce6cb9ef80bee2.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
